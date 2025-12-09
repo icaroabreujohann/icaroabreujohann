@@ -2,6 +2,6 @@
 
 currently studying and working on modularization, scalable architectures, microservices, and RESTful APIs
 
-`java | vue | node | postgresql | docker`
+`typescript | vue | node | postgresql | docker`
 
 *i strive for standardization and simplicity.*
